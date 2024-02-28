@@ -51,7 +51,7 @@ x264、x265、openh264、libde265、fdk_aac、G711、libyuv、speexdsp测试程�
   - g++ example.cpp -o example -I./include -L./ -lyuv
   - ./example ../media/352_288_pic.yuv 352 288
 
-# fdk_aac
+# fdk-aac
 * 安装：
   - sudo apt install libfdk-aac-dev
 * 解码：
