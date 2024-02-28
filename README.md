@@ -28,7 +28,7 @@ x264、x265、openh264、libde265、fdk_aac、G711、libyuv、speexdsp测试程�
   - g++ openh264_encode.cpp -o openh264-enc-test -lopenh264
   - ./openh264-enc-test ../media/352_288.yuv out.h264 352 288
 
-# libde264
+# libde265
 * 安装：
   - apt install libqt4-dev
   - git clone https://github.com/strukturag/libde265.git
